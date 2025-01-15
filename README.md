@@ -2,7 +2,7 @@
 
 Programa en JAVA que emplea:
  - Consumo de API con: `HttpClient, HttpRequest, HttpResponse`
- - Interaccion con el usuario por CONSOLA
+ - Interaccion con el usuario por consola
 
 # Monedas en uso:
   `{"USD", "ARS", "BRL", "COP"}`
